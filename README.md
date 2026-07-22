@@ -14,7 +14,6 @@ My journey learning cybersecurity: notes, projects, and resources.
 ---
 
 ## 🎯 **Learning Path**
-## 🎯 **Learning Path**
 ### **Completed**
 - [x] [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) (Levels 0-10)
 - [x] [Professor Messer’s A+ Course](https://www.professormesser.com/) (Networking Basics)
