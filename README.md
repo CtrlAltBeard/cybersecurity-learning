@@ -19,6 +19,8 @@ My journey learning cybersecurity: notes, projects, and resources.
 - [x] [Professor Messer’s A+ Course](https://www.professormesser.com/) (Networking Basics)
 - [x] [PyFlo.net](https://pyflo.net/) (Python Fundamentals)
 - [x] [TryHackMe: Pre Security Path](https://tryhackme.com/path/outline/presecurity) – *Fundamentals of tech, networking, coding, and cybersecurity basics.*
+- [x] [Harvard CS50’s Intro to Cybersecurity](https://youtu.be/9HOpanT0GRs?si=4cAfpZ056D6uwOoH) *Securing Accounts, Securing Data, Securing Systems, Securing Software, Preserving Privacy*
+
 
 ### **In Progress**
 - [ ] [TryHackMe: Cybersecurity 101](https://tryhackme.com/path/outline/cybersecurity101) – *Intro to networking, cryptography, offensive/defensive security, and careers.*
