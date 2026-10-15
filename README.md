@@ -1,0 +1,46 @@
+# cybersecurity-learning
+My journey learning cybersecurity: notes, projects, and resources.
+# 🔒 Cybersecurity Learning Journey
+
+**Welcome to my cybersecurity portfolio!** This repo tracks my progress, projects, and notes as I build my skills in defensive security.
+
+---
+
+## 📌 **About Me**
+- **Name**: CtrlAltBeard
+- **Goal**: Transition into cybersecurity (focus: defensive security, threat analysis, and best practices).
+- **Current Level**: Beginner (but eager to level up!).
+
+---
+
+## 🎯 **Learning Path**
+### **Completed**
+- [x] [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) (Levels 0-10)
+- [x] [Professor Messer’s A+ Course](https://www.professormesser.com/) (Networking Basics)
+- [x] [PyFlo.net](https://pyflo.net/) (Python Fundamentals)
+- [x] [TryHackMe: Pre Security Path](https://tryhackme.com/path/outline/presecurity) – *Fundamentals of tech, networking, coding, and cybersecurity basics.*
+- [x] [Harvard CS50’s Intro to Cybersecurity](https://youtu.be/9HOpanT0GRs?si=4cAfpZ056D6uwOoH) *Securing Accounts, Securing Data, Securing Systems, Securing Software, Preserving Privacy*
+- [x] [Google Cybersecurity Certificate](https://youtube.com/playlist?list=PLTZYG7bZ1u6ocTMdhDwwmfjaNv134KcWn&si=T558KnhAkHPv__cK) by Grow with Google
+
+### **In Progress**
+- [ ] [TryHackMe: Cybersecurity 101](https://tryhackme.com/path/outline/cybersecurity101) – *Intro to networking, cryptography, offensive/defensive security, and careers.*
+- [ ] [System Administration and IT Infrastructure Services | Google IT Support Certificate](https://youtube.com/playlist?list=PLTZYG7bZ1u6ojo_vSOfdrYFf7N1OrWvhg&si=fSTWCYIJO_3bUxqw)) by Grow with Google
+- [ ] NIST Cybersecurity Framework (CSF) Study
+- [ ] OWASP Top 10 (2021)
+
+### **Up Next**
+- [ ] HackTheBox: [Starting Point](https://www.hackthebox.com/)
+- [ ] Burp Suite Community Edition Labs
+- [ ] Google’s [Gruyere](https://google-gruyere.appspot.com/) (Web App Security)
+
+---
+
+## 📂 **Repo Structure**
+   Folder          | Description                          |
+ |-----------------|--------------------------------------|
+ | `/notes`        | Study notes (Markdown files)         |
+ | `/projects`     | Hands-on labs and CTF writeups       |
+ | `/resources`    | Cheat sheets, guides, and links      |
+
+---
+## **Looking also for [Linux](https://github.com/CtrlAltBeard/bash-linux-learning) or [Python](https://github.com/CtrlAltBeard/python-learning) resources?**
